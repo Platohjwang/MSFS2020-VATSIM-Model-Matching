@@ -1620,7 +1620,7 @@
 <ModelMatchRule CallsignPrefix="SIA" TypeCode="B77L" ModelName="B772SIA//B77WSIA2" />
 <ModelMatchRule CallsignPrefix="SIA" TypeCode="B773" ModelName="B772SIA//B77WSIA2" />
 
-ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="A320WSVAWL" />
+<ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="A320WSVAWL" />
 <ModelMatchRule CallsignPrefix="SVA" TypeCode="A333" ModelName="B744SVA" />
 <ModelMatchRule CallsignPrefix="SVA" TypeCode="B748" ModelName="B744SVA" />
 <ModelMatchRule CallsignPrefix="SVA" TypeCode="B772" ModelName="B77LSVACRG" />
@@ -1710,10 +1710,10 @@ ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="A320WSVAWL" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="A320WZZ2" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A321" ModelName="A320WZZ2" />
 
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A20N" ModelName="A320CSZ//A320CSZ2//A320CSZ3//A320CSZ4//A320CSZ5//A320WCSZWL" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DHK" />
 <ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DKH" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="B738" ModelName="B738CCAWL2//B738CCAWL3//B738CCAWL4//B738CCAWL5//B738CCAWL6" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A744" ModelName="B744CCA" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="B744" ModelName="B744CCA" />
 
 </ModelMatchRuleSet>
