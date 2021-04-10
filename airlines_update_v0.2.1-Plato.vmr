@@ -1424,6 +1424,12 @@
 
 <ModelMatchRule CallsignPrefix="CSA" TypeCode="A333" ModelName="A320CSA" />
 <ModelMatchRule CallsignPrefix="CSA" TypeCode="A332" ModelName="A320CSA" />
+  
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A20N" ModelName="A320CSZ//A320CSZ2//A320CSZ3//A320CSZ4//A320CSZ5//A320WCSZWL" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DHK" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="B744" ModelName="B744CCA" />
 
 <ModelMatchRule CallsignPrefix="DAL" TypeCode="B737" ModelName="B739WDALWL" />
 <ModelMatchRule CallsignPrefix="DAL" TypeCode="B738" ModelName="B739WDALWL" />
@@ -1644,9 +1650,12 @@
 <ModelMatchRule CallsignPrefix="TAP" TypeCode="A343" ModelName="A332TAP" />
 
 <ModelMatchRule CallsignPrefix="TCX" TypeCode="A20N" ModelName="A321TCX" />
+  
+<ModelMatchRule CallsignPrefix="THA" TypeCode="A321" ModelName="A346THA" />
 
 <ModelMatchRule CallsignPrefix="THY" TypeCode="A20N" ModelName="A320WTHYWL" />
 <ModelMatchRule CallsignPrefix="THY" TypeCode="B772" ModelName="B77LTHYCRG" />
+<ModelMatchRule CallsignPrefix="THY" TypeCode="B789" ModelName="B77LTHYCRG" />
 
 <ModelMatchRule CallsignPrefix="TOM" TypeCode="B752" ModelName="B738WTUIWL" />
 
@@ -1709,11 +1718,5 @@
 
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="A320WZZ2" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A321" ModelName="A320WZZ2" />
-
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A20N" ModelName="A320CSZ//A320CSZ2//A320CSZ3//A320CSZ4//A320CSZ5//A320WCSZWL" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DHK" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
-<ModelMatchRule CallsignPrefix="CSH" TypeCode="B744" ModelName="B744CCA" />
 
 </ModelMatchRuleSet>
