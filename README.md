@@ -10,7 +10,7 @@ All requests will be responded as soon as I can.
    https://www.ivao.aero/softdev/beta/altitudebeta.asp
 2. Place the airlines_update_v0.2-Plato.vmr file in the vPilot files folder
 3. Add model matching file in vPilot client
-4. Make sure airlines_update_v0.2-Plato.vmr is on top in vPilot
+4. Make sure airlines_update-Plato.vmr is on top in vPilot
 
 # For editor:
 For better traking, please edit at the bottom of the vmr file.
