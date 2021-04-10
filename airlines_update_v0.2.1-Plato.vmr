@@ -1710,8 +1710,6 @@ ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="A320WSVAWL" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="A320WZZ2" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A321" ModelName="A320WZZ2" />
 
-
-Shanghai Airlines model match ICAO:CSH !WRONG LIVERIES!
 <ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
 <ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DKH" />
 <ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
