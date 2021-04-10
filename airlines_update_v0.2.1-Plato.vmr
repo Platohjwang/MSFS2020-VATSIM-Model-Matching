@@ -328,6 +328,10 @@
 <ModelMatchRule CallsignPrefix="CES" TypeCode="A332" ModelName="A332CES//A332CES2//A332CES3//A332CES4//A332CES5" />
 <ModelMatchRule CallsignPrefix="CES" TypeCode="B738" ModelName="B738WCESWL//B738WCESWL2//B738WCESWL3//B738WCESWL4" />
 <ModelMatchRule CallsignPrefix="CES" TypeCode="B77W" ModelName="B77WWCESWL" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="A320" ModelName="A320CFG//A320CFG2//A320CFG3//A320CFG4" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="A332" ModelName="A332CFG" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="B744" ModelName="B744CFGOLD" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="A20" ModelName="A320CFG" />
 <ModelMatchRule CallsignPrefix="CGA" TypeCode="A320" ModelName="A320CGA" />
 <ModelMatchRule CallsignPrefix="CGH" TypeCode="A319" ModelName="A319CGH" />
 <ModelMatchRule CallsignPrefix="CGH" TypeCode="A320" ModelName="A320WCGHWL//A320WCGHWL2" />
