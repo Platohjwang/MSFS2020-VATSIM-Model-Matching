@@ -8,7 +8,7 @@ All requests will be responded as soon as I can.
 # Instruction: 
 1. You need to have model matching ivao_x_csl file in your MSFS2020 community folder, link:
    https://www.ivao.aero/softdev/beta/altitudebeta.asp
-2. Place the airlines_update_v0.2-Plato.vmr file in the vPilot files folder
+2. Place the airlines_update-Plato.vmr file in the vPilot files folder
 3. Add model matching file in vPilot client
 4. Make sure airlines_update-Plato.vmr is on top in vPilot
 
