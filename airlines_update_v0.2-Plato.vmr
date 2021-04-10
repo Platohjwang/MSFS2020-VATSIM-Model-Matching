@@ -1692,7 +1692,7 @@ ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="A320WSVAWL" />
 <ModelMatchRule CallsignPrefix="VOC" TypeCode="A321" ModelName="A320WVOIWL//A320WVOIWL2" />
 <ModelMatchRule CallsignPrefix="VOC" TypeCode="A21N" ModelName="A320WVOIWL//A320WVOIWL2" />
 
-ModelMatchRule CallsignPrefix="VOI" TypeCode="A20N" ModelName="A320WVOIWL//A320WVOIWL2" />
+<ModelMatchRule CallsignPrefix="VOI" TypeCode="A20N" ModelName="A320WVOIWL//A320WVOIWL2" />
 <ModelMatchRule CallsignPrefix="VOI" TypeCode="A321" ModelName="A320WVOIWL//A320WVOIWL2" />
 <ModelMatchRule CallsignPrefix="VOI" TypeCode="A21N" ModelName="A320WVOIWL//A320WVOIWL2" />
 
@@ -1702,11 +1702,20 @@ ModelMatchRule CallsignPrefix="VOI" TypeCode="A20N" ModelName="A320WVOIWL//A320W
 <ModelMatchRule CallsignPrefix="VOZ" TypeCode="B737" ModelName="A320JSTWL" />
 <ModelMatchRule CallsignPrefix="VOZ" TypeCode="B738" ModelName="A320JSTWL" />
 
-ModelMatchRule CallsignPrefix="VUE" TypeCode="A319" ModelName="A319VLG" />
+<ModelMatchRule CallsignPrefix="VUE" TypeCode="A319" ModelName="A319VLG" />
 <ModelMatchRule CallsignPrefix="VUE" TypeCode="A320" ModelName="A320VLG//A320WVLGWL" />
 
 <ModelMatchRule CallsignPrefix="WJA" TypeCode="B788" ModelName="B788ACA2" />
 
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="A320WZZ2" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A321" ModelName="A320WZZ2" />
+
+
+Shanghai Airlines model match ICAO:CSH !WRONG LIVERIES!
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A321" ModelName="A321DKH" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A320" ModelName="A320DKH//A320DKH2//A320DKH3//A320WDKHWL" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="B738" ModelName="B738CCAWL2//B738CCAWL3//B738CCAWL4//B738CCAWL5//B738CCAWL6" />
+<ModelMatchRule CallsignPrefix="CSH" TypeCode="A744" ModelName="B744CCA" />
+
 </ModelMatchRuleSet>
