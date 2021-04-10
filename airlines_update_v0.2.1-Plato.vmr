@@ -1410,7 +1410,7 @@
 <ModelMatchRule CallsignPrefix="BER" TypeCode="B737" ModelName="B738WBERWL//B738WBERWL2" />
 
 <ModelMatchRule CallsignPrefix="BWA" TypeCode="B763" ModelName="B738WBWAWL" />
-
+  
 <ModelMatchRule CallsignPrefix="CLX" TypeCode="B748" ModelName="B744CLX" />
 
 <ModelMatchRule CallsignPrefix="CLU" TypeCode="B744" ModelName="B744CLX" />
