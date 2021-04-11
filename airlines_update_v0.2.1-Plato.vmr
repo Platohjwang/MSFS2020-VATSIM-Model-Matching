@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
 
+<!--
+This free modelmatching file has been origionally created by BritishAvgeek, deep modified by Plato
+Model Matching based on Community folder installed liveries
+
+Flightsim.to link:
+https://flightsim.to/file/12414/msfs2020-vatsim-modelmatching
+
+Github link:
+https://github.com/Platohjwang/MSFS2020-VATSIM-Model-Matching
+
+Support our work:
+https://paypal.me/PlatoMSFS2020
+-->
+  
 <ModelMatchRule CallsignPrefix="MAY" TypeCode="B738" ModelName="B738WMAYWL" />
 <ModelMatchRule CallsignPrefix="SUN" TypeCode="B744" ModelName="B744SUN" />
 <ModelMatchRule CallsignPrefix="SUN" TypeCode="B77L" ModelName="B77LSUN" />
