@@ -2,7 +2,7 @@
 
 This model matching project is a community driven open source project based on BritishAvgeek's previous work. It is my honor to have your contribution.
 A good model matching can bring Vatsim flights as close to reality as possible.
-To maximize the gaming experience, you can also start an request in either Discord or Github.
+To maximize the gaming experience, you can also start a request in either Discord or Github.
 All requests will be responded as soon as I can.
 
 # Instruction: 
