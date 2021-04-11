@@ -24,6 +24,7 @@ Hope you enjoy & thanks to all the contributors
 
 Flightsim Link:
 https://flightsim.to/file/12414/msfs2020-vatsim-modelmatching
+
 Discord Channel:
 TBD
 
