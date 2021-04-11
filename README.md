@@ -13,7 +13,7 @@ All requests will be responded as soon as I can.
 4. Make sure airlines_update-Plato.vmr is on top in vPilot
 
 # For editor:
-For better traking, please edit at the bottom of the vmr file.
+For better tracking, please edit at the bottom of the vmr file.
 Appreciate:)
 
 # Note
