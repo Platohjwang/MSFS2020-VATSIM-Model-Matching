@@ -23,7 +23,7 @@ For Airplane/Airline model matching, this is the most comprehensive one as far a
 Hope you enjoy & thanks to all the contributors
 
 Flightsim Link:
-TBD
+https://flightsim.to/file/12414/msfs2020-vatsim-modelmatching
 Discord Channel:
 TBD
 
