@@ -1558,6 +1558,9 @@
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B763" ModelName="B788LAN//B788LAN2" />
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B789" ModelName="B788LAN//B788LAN2" />
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B78X" ModelName="B788LAN//B788LAN2" />
+  
+<ModelMatchRule CallsignPrefix="LHA" TypeCode="A320" ModelName="A320CCA" />
+<ModelMatchRule CallsignPrefix="LHA" TypeCode="B738" ModelName="B738WCCAWL2" />
 
 <ModelMatchRule CallsignPrefix="LOT" TypeCode="B39M" ModelName="B738WLOTWL" />
 <ModelMatchRule CallsignPrefix="LOT" TypeCode="B73M" ModelName="B738WLOTWL" />
