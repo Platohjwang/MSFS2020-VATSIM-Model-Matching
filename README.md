@@ -1,4 +1,4 @@
-# MSFS2020-Vatsim-Model-Matching v0.3.0
+# MSFS2020-Vatsim-Model-Matching v0.3.0.1
 
 This model matching project is a community driven open source project based on BritishAvgeek's previous work. It is my honor to have your contribution.
 A good model matching can bring Vatsim flights as close to reality as possible.
