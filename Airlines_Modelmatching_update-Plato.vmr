@@ -1717,8 +1717,6 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="UPS" TypeCode="B744" ModelName="B77LFDX" />
 <ModelMatchRule CallsignPrefix="UPS" TypeCode="B748" ModelName="B77LFDX" />
   
-<ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
-
 <ModelMatchRule CallsignPrefix="VIR" TypeCode="A333" ModelName="A346VIR" />
 <ModelMatchRule CallsignPrefix="VIR" TypeCode="B748" ModelName="B744VIR" />
 
