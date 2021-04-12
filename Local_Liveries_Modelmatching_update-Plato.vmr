@@ -4119,18 +4119,15 @@ https://paypal.me/PlatoMSFS2020
 
 
 <ModelMatchRule CallsignPrefix="CDG" TypeCode="CRJ7" ModelName="CRJ-700 Shandong Airlines" />
-<ModelMatchRule CallsignPrefix="CDG" TypeCode="CRJ7" ModelName="CRJ-700 Shandong Airlines" />
 <ModelMatchRule CallsignPrefix="CDG" TypeCode="CRJ9" ModelName="CRJ-700 Shandong Airlines" />
 <ModelMatchRule CallsignPrefix="CDG" TypeCode="CRJX" ModelName="CRJ-700 Shandong Airlines" />
 <ModelMatchRule CallsignPrefix="CDG" TypeCode="C25C" ModelName="CRJ-700 Shandong Airlines" />
 
 <ModelMatchRule CallsignPrefix="HXA" TypeCode="CRJ7" ModelName="CRJ-700 China Express Airlines" />
-<ModelMatchRule CallsignPrefix="HXA" TypeCode="CRJ7" ModelName="CRJ-700 China Express Airlines" />
 <ModelMatchRule CallsignPrefix="HXA" TypeCode="CRJ9" ModelName="CRJ-700 China Express Airlines" />
 <ModelMatchRule CallsignPrefix="HXA" TypeCode="CRJX" ModelName="CRJ-700 China Express Airlines" />
 <ModelMatchRule CallsignPrefix="HXA" TypeCode="C25C" ModelName="CRJ-700 China Express Airlines" />
 
-<ModelMatchRule CallsignPrefix="PAA" TypeCode="CRJ7" ModelName="CRJ700ER PanAm" />
 <ModelMatchRule CallsignPrefix="PAA" TypeCode="CRJ7" ModelName="CRJ700ER PanAm" />
 <ModelMatchRule CallsignPrefix="PAA" TypeCode="CRJ9" ModelName="CRJ700ER PanAm" />
 <ModelMatchRule CallsignPrefix="PAA" TypeCode="CRJX" ModelName="CRJ700ER PanAm" />
@@ -4138,14 +4135,13 @@ https://paypal.me/PlatoMSFS2020
 
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="Airbus A320 Neo Alpaca" />
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ7" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
-<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ7" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ9" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJX" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="C25C" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
 
-<ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ7" ModelName="CRJ700ER Scandinavian Airlines New - EI-FPS" />
-<ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ7" ModelName="SAS EC-JZV" />
-<ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ7" ModelName="SAS EI-FPM" />
-<ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ7" ModelName="SAS_RETRO" />
+<ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ7" ModelName="CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EC-JZV//SAS EI-FPM//SAS_RETRO" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ9" ModelName="SAS EC-JZV//CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EI-FPM//SAS_RETRO" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJX" ModelName="SAS_RETRO//CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EC-JZV//SAS EI-FPM" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="C25C" ModelName="CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EC-JZV//SAS EI-FPM//SAS_RETRO" />
 
 </ModelMatchRuleSet>
