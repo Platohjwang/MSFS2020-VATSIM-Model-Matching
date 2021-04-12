@@ -1327,7 +1327,6 @@ https://paypal.me/PlatoMSFS2020
 
 
 
-<ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
 
 <ModelMatchRule CallsignPrefix="AAY" TypeCode="A20N" ModelName="A320WAAYWL" />
 
@@ -1354,7 +1353,8 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="ACA" TypeCode="A20N" ModelName="A319ACA" />
 
 <ModelMatchRule CallsignPrefix="AEA" TypeCode="B73M" ModelName="B738WAEAWL3" />
-<ModelMatchRule CallsignPrefix="AEA" TypeCode="B78X" ModelName="B788AEA" /><ModelMatchRule CallsignPrefix="AEA" TypeCode="B789" ModelName="B788AEA" />
+<ModelMatchRule CallsignPrefix="AEA" TypeCode="B78X" ModelName="B788AEA" />
+<ModelMatchRule CallsignPrefix="AEA" TypeCode="B789" ModelName="B788AEA" />
 <ModelMatchRule CallsignPrefix="AEA" TypeCode="A333" ModelName="A332AEA3" />
 
 <ModelMatchRule CallsignPrefix="AFL" TypeCode="A20N" ModelName="A320WAFLWL" />
@@ -1715,6 +1715,8 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="UPS" TypeCode="B764" ModelName="B77LFDX" />
 <ModelMatchRule CallsignPrefix="UPS" TypeCode="B744" ModelName="B77LFDX" />
 <ModelMatchRule CallsignPrefix="UPS" TypeCode="B748" ModelName="B77LFDX" />
+  
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="B738WCCAWL2//B738WCCAWL3//B738WCCAWL4//B738WCCAWL5//B738WCCAWL6" />
 
 <ModelMatchRule CallsignPrefix="VIR" TypeCode="A333" ModelName="A346VIR" />
 <ModelMatchRule CallsignPrefix="VIR" TypeCode="B748" ModelName="B744VIR" />
