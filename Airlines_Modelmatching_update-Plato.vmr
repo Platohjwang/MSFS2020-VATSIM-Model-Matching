@@ -66,9 +66,9 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="ABT" TypeCode="A320" ModelName="A320WABTWL" />
 <ModelMatchRule CallsignPrefix="ABY" TypeCode="A320" ModelName="A320ABY//A320WABYWL" />
 <ModelMatchRule CallsignPrefix="ABZ" TypeCode="B744" ModelName="B744ABZ" />
-<ModelMatchRule CallsignPrefix="ACA" TypeCode="A319" ModelName="A319ACA//A319ACA2" />
-<ModelMatchRule CallsignPrefix="ACA" TypeCode="A320" ModelName="A320ACA" />
-<ModelMatchRule CallsignPrefix="ACA" TypeCode="A321" ModelName="A321ACA//A321ACA2" />
+<ModelMatchRule CallsignPrefix="ACA" TypeCode="A319" ModelName="B738ACAS" />
+<ModelMatchRule CallsignPrefix="ACA" TypeCode="A320" ModelName="B738ACAS" />
+<ModelMatchRule CallsignPrefix="ACA" TypeCode="A321" ModelName="B738ACAS" />
 <ModelMatchRule CallsignPrefix="ACA" TypeCode="B738" ModelName="B738ACAS" />
 <ModelMatchRule CallsignPrefix="ACA" TypeCode="B744" ModelName="B744ACA" />
 <ModelMatchRule CallsignPrefix="ACA" TypeCode="B77L" ModelName="B77LACA//B77LACA2" />
@@ -1426,10 +1426,10 @@ https://paypal.me/PlatoMSFS2020
 
 <ModelMatchRule CallsignPrefix="BWA" TypeCode="B763" ModelName="B738WBWAWL" />
 
-<ModelMatchRule CallsignPrefix="CFG" TypeCode="A320" ModelName="A320CFG//A320CFG2//A320CFG3//A320CFG4" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="A320" ModelName="A320CFG4" />
 <ModelMatchRule CallsignPrefix="CFG" TypeCode="A332" ModelName="A332CFG" />
 <ModelMatchRule CallsignPrefix="CFG" TypeCode="B744" ModelName="B744CFGOLD" />
-<ModelMatchRule CallsignPrefix="CFG" TypeCode="A20" ModelName="A320CFG" />
+<ModelMatchRule CallsignPrefix="CFG" TypeCode="A20N" ModelName="A320CFG4" />
   
 <ModelMatchRule CallsignPrefix="CLX" TypeCode="B748" ModelName="B744CLX" />
 
@@ -1505,6 +1505,7 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="FDX" TypeCode="B772" ModelName="B77LFDX//B77LFDX2" />
 <ModelMatchRule CallsignPrefix="FDX" TypeCode="B77F" ModelName="B77LFDX//B77LFDX2" />
 <ModelMatchRule CallsignPrefix="FDX" TypeCode="B77W" ModelName="B77LFDX//B77LFDX2" />
+<ModelMatchRule CallsignPrefix="FDX" TypeCode="B763" ModelName="B77LFDX//B77LFDX2" />
 
 <ModelMatchRule CallsignPrefix="FFT" TypeCode="A20N" ModelName="A320WFFTWL" />
 
