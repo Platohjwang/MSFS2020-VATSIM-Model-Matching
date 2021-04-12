@@ -4136,6 +4136,11 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="PAA" TypeCode="CRJX" ModelName="CRJ700ER PanAm" />
 <ModelMatchRule CallsignPrefix="PAA" TypeCode="C25C" ModelName="CRJ700ER PanAm" />
 
-<ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="Airbus A320 Air China Beijing 2022 theme B-5425" />
-
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="Airbus A320 Neo Alpaca" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ7" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ7" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ9" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJX" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
+<ModelMatchRule CallsignPrefix="VCP" TypeCode="C25C" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
+  
 </ModelMatchRuleSet>
