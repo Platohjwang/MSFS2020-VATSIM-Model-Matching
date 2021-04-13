@@ -12,6 +12,14 @@ All requests will be responded as soon as I can.
 3. Add model matching files in vPilot client
 4. Make sure Airlines_Modelmatching_update-Plato.vmr is on top in vPilot
 
+# For User:
+Because of unknown issues, some models do not work at all, where we need local liveries to conquere the problem.
+If you frequently fly around one certain region, I stronly suggest users follow the list below, download corresponding liveries from Flightsim, and make your own livery library.
+America:
+SWA: Airbus A320 Neo Southwest
+UAL: Airbus A320 Neo United Airlines 2019 8K
+
+
 # For editor:
 For better tracking, please edit at the bottom of both vmr files.
 Appreciate:)
