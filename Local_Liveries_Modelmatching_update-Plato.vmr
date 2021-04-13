@@ -4137,6 +4137,20 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJ9" ModelName="SAS EC-JZV//CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EI-FPM//SAS_RETRO" />
 <ModelMatchRule CallsignPrefix="SAS" TypeCode="CRJX" ModelName="SAS_RETRO//CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EC-JZV//SAS EI-FPM" />
 <ModelMatchRule CallsignPrefix="SAS" TypeCode="C25C" ModelName="CRJ700ER Scandinavian Airlines New - EI-FPS//SAS EC-JZV//SAS EI-FPM//SAS_RETRO" />
+ 
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="A319" ModelName="Airbus A320 Neo Southwest" />
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="A320" ModelName="Airbus A320 Neo Southwest" />
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="A321" ModelName="Airbus A320 Neo Southwest" />
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="A20N" ModelName="Airbus A320 Neo Southwest" />
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="B737" ModelName="Airbus A320 Neo Southwest" />
+<ModelMatchRule CallsignPrefix="SWA" TypeCode="B738" ModelName="Airbus A320 Neo Southwest" />
+  
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="A319" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="A320" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="A321" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="A20N" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="B737" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="B738" ModelName="Airbus A320 Neo United Airlines 2019 8K" />
 
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="Airbus A320 Neo Alpaca" />
 <ModelMatchRule CallsignPrefix="VCP" TypeCode="CRJ7" ModelName="CRJ700ER ALPACA//CRJ700ER ALPACA2//CRJ700ER ALPACA1" />
