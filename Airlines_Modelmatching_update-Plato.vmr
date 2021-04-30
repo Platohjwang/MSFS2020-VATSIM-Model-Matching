@@ -1573,6 +1573,18 @@ https://paypal.me/PlatoMSFS2020
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B763" ModelName="B788LAN//B788LAN2" />
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B789" ModelName="B788LAN//B788LAN2" />
 <ModelMatchRule CallsignPrefix="LAN" TypeCode="B78X" ModelName="B788LAN//B788LAN2" />
+
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A319" ModelName="A319DLH//A319DLH2//A319DLH3//A319DLH4//A319DLH5" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A320" ModelName="A320DLH//A320DLH2//A320DLH3//A320WDLHWL//A320WDLHWL2//A320WDLHWL3//A320WDLHWL4//A320WDLHWL5" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A321" ModelName="A321DLH//A321DLH2//A321DLH3//A321DLH4//A321DLH5//A321DLH6" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A346" ModelName="A346DLH//A346DLH2" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A359" ModelName="A359DLH" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A388" ModelName="A388DLH//A388DLH2" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="B744" ModelName="B744DLH//B744DLH2" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="B748" ModelName="B748DLH2" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="B738" ModelName="A320WDLHWL3//A320WDLHWL2//A320WDLHWL//A320DLH3//A320DLH//A320DLH2" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A20N" ModelName="A320WDLHWL" />
+<ModelMatchRule CallsignPrefix="LH" TypeCode="A333" ModelName="A359DLH" />
   
 <ModelMatchRule CallsignPrefix="LHA" TypeCode="A320" ModelName="A320CCA" />
 <ModelMatchRule CallsignPrefix="LHA" TypeCode="B738" ModelName="B738WCCAWL2" />
