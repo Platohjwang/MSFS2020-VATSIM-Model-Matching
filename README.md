@@ -1,4 +1,4 @@
-# MSFS2020-Vatsim-Model-Matching v0.3.0.1
+# MSFS2020-Vatsim-Model-Matching v0.4.0.0
 
 This model matching project is a community driven open source project based on BritishAvgeek's previous work. It is my honor to have your contribution.
 A good model matching can bring Vatsim flights as close to reality as possible.
@@ -10,7 +10,7 @@ All requests will be responded as soon as I can.
    https://www.ivao.aero/softdev/beta/altitudebeta.asp
 2. Place both vmr files in the vPilot files folder
 3. Add model matching files in vPilot client
-4. Make sure Airlines_Modelmatching_update-Plato.vmr is on top in vPilot
+4. Make sure Airlines_Modelmatching_update-Plato.vmr is on top in vPilot (Unless your have a large amount of local liveries)
 
 # For editor:
 For better tracking, please edit at the bottom of both vmr files.
