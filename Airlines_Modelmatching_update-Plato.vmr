@@ -1754,5 +1754,14 @@ https://paypal.me/PlatoMSFS2020
 
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="A320WZZ2" />
 <ModelMatchRule CallsignPrefix="WZZ" TypeCode="A321" ModelName="A320WZZ2" />
-
+  
+<ModelMatchRule CallsignPrefix="DAL" TypeCode="B712" ModelName="JFAI_717_Delta_Airlines" />
+<ModelMatchRule CallsignPrefix="HAL" TypeCode="B712" ModelName="JFAI_717_HawaiianAirlines" />
+<ModelMatchRule CallsignPrefix="QLK" TypeCode="B712" ModelName="JFAI_717_Qantaslink" />
+<ModelMatchRule CallsignPrefix="QJE" TypeCode="B712" ModelName="JFAI_717_Qantaslink" />
+<ModelMatchRule CallsignPrefix="NWK" TypeCode="B712" ModelName="JFAI_717_Qantaslink" />
+<ModelMatchRule CallsignPrefix="TUA" TypeCode="B712" ModelName="JFAI_717_Turkmenistan" />  
+<ModelMatchRule CallsignPrefix="VOE" TypeCode="B712" ModelName="JFAI_717_Volotea" />
+<ModelMatchRule TypeCode="A225" ModelName="JFAI_AN225_Antonov_Airlines" />
+<ModelMatchRule TypeCode="A3ST" ModelName="JFAI_A300_st_Airbus" />
 </ModelMatchRuleSet>
