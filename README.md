@@ -14,7 +14,7 @@ B717 AN225 A300-600st models included
 3. Add model matching files in vPilot client
 4. Make sure Airlines_Modelmatching_update-Plato.vmr is on top in vPilot (Unless your have a large amount of local liveries)
 
-Additional models (many thanks to JF):
+# Additional models (many thanks to JF):
 Click the link below and copy to "ivao_x-csl" folder inide your "community" folder
 https://drive.google.com/file/d/1PX_Lwy9fxqb4NyUYzHZGGueD4wj_PkdI/view?usp=sharing
 
