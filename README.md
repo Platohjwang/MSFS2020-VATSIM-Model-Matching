@@ -18,7 +18,7 @@ Concorde AH1Z B717 MD11 AN225 A300-600st Dash8Q3/Q4 CRJ700 E175 BAe146/RJ100 mod
    https://flightsim.to/file/12414/msfs2020-vatsim-modelmatching
 
 # For editor:
-For better tracking, please edit at the bottom of both vmr files.
+For better tracking, please edit at the bottom for all vmr files.
 Appreciate:)
 
 # Note
