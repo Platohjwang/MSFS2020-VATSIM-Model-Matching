@@ -1,11 +1,11 @@
-# MSFS2020-Vatsim-Model-Matching v0.5.1.0
+# MSFS2020-Vatsim-Model-Matching v0.5.3.0
 This model matching project is a community driven open source project based on BritishAvgeek and other contributors' previous work. It is my honor to have your contribution.
 A good model matching can bring Vatsim flights as close to reality as possible.
 To maximize the gaming experience, you can also start a request in either Discord or Github.
 All requests will be responded as soon as I can.
 
 # Highlight
-Concorde AH1Z B717 MD11 AN225 A300-600st Dash8Q3/Q4 CRJ700 E175 BAe146/RJ100 models included
+Concorde AH1Z B717 B752 B753 MD11 AN225 A300-600st Dash8Q3/Q4 CRJ700 E175 BAe146/RJ100 ARJ21 models included
 (ModelMatching will create its own CRJ700 from now on, no need to buy the CRJ700 anymore)
 
 # Instruction: 
